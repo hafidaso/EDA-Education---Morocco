@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This comprehensive project provides a complete analysis of Morocco's education system from 2000-2030, including historical trends, international comparisons, and strategic forecasting. The project combines data collection, statistical analysis, visualization, and policy recommendations to support evidence-based education policy decisions.
+This comprehensive project provides a complete analysis of Morocco's education system from 2000 to 2030, including historical trends, international comparisons, and strategic forecasting. The project combines data collection, statistical analysis, visualization, and policy recommendations to support evidence-based education policy decisions.
 
 ---
 
@@ -276,8 +276,5 @@ The project supports Morocco's education system development through data-driven 
 
 ## 📝 **License & Usage**
 
-This project is for educational and research purposes. Data sources are properly attributed and methodologies are transparent. The analysis provides evidence-based insights for policy development and academic research in education systems analysis.
+This project is for educational and research purposes. Data sources are properly attributed, and methodologies are transparent. The analysis provides evidence-based insights for policy development and academic research in education systems analysis.
 
----
-
-*This README provides a comprehensive overview of all components in the Morocco Education System Analysis Project. Each file serves a specific purpose in the overall analysis framework, from data collection to strategic reporting.*
