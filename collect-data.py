@@ -1,0 +1,136 @@
+import requests
+import pandas as pd
+from time import sleep
+
+# Countries to query (ISO Alpha-3 codes)
+countries = ['TUN', 'DZA', 'EGY', 'ZAF', 'KEN', 'GHA', 'FRA', 'GBR', 'CAN']
+
+# Indicators as dictionary {indicator_code: indicator_name}
+key_indicators = {
+    'SE.TER.ENRL.WIDE': 'Tertiary enrollment total (wide format)',
+    'NY.GDP.MKTP.KD.ZG': 'GDP growth annual',
+    'NY.GDP.PCAP.CD': 'GDP per capita',
+    'SE.ENR.PRIM.FM.ZS': 'Female to male enrollment primary',
+    'SE.ENR.SECO.FM.ZS': 'Female to male enrollment secondary',
+    'SE.ENR.TERT.FM.ZS': 'Female to male enrollment tertiary',
+    'SE.PRE.ENRR': 'Pre-primary gross enrollment ratio',
+    'SE.PRM.AGES': 'Primary school starting age',
+    'SE.PRM.CMPT.FE.ZS': 'Primary completion rate female',
+    'SE.PRM.CMPT.MA.ZS': 'Primary completion rate male',
+    'SE.PRM.CMPT.ZS': 'Primary completion rate',
+    'SE.PRM.ENRL': 'Primary enrollment total',
+    'SE.PRM.ENRL.WIDE': 'Primary enrollment total (wide format)',
+    'SE.PRM.NENR': 'Primary net enrollment rate',
+    'SE.PRM.OENR.ZS': 'Over-age students primary',
+    'SE.PRM.REPT.ZS': 'Repeaters primary percent',
+    'SE.PRM.TCHR': 'Primary teachers total',
+    'SE.SEC.CMPT.LO.FE.ZS': 'Lower secondary completion female',
+    'SE.SEC.CMPT.LO.MA.ZS': 'Lower secondary completion male',
+    'SE.SEC.CMPT.LO.ZS': 'Lower secondary completion rate',
+    'SE.SEC.CMPT.UP.ZS': 'Upper secondary completion rate, total (% of relevant age group)',
+    'SE.SEC.ENRL': 'Secondary enrollment total',
+    'SE.SEC.ENRL.WIDE': 'Secondary enrollment total (wide format)',
+    'SE.SEC.TCHR': 'Secondary teachers total',
+    'SE.TER.ENRL': 'Tertiary enrollment total',
+    'SE.TER.ENRR.FE': 'Tertiary enrollment female',
+    'SE.TER.ENRR.MA': 'Tertiary enrollment male',
+    'SE.XPD.PRIM.PC.ZS': 'Expenditure per student primary',
+    'SE.XPD.TERT.PC.ZS': 'Expenditure per student tertiary',
+    'SI.POV.GINI': 'GINI index',
+    'SL.EMP.TOTL.SP.ZS': 'Employment to population ratio',
+    'SP.DYN.TFRT.IN': 'Fertility rate total',
+    'SP.POP.0014.TO.ZS': 'Population ages 0-14 percent',
+    'SP.POP.1564.TO.ZS': 'Population ages 15-64 percent',
+    'SP.POP.TOTL': 'Total population',
+    'SP.RUR.TOTL.ZS': 'Rural population percent',
+    'SP.URB.TOTL.IN.ZS': 'Urban population percent',
+    'SE.XPD.SECO.PC.ZS': 'Expenditure per student secondary',
+    'SE.ADT.LITR.ZS': 'Adult literacy rate',
+    'SE.PRM.TCAQ.ZS': 'Trained teachers primary percent',
+    'SE.SEC.NENR': 'Secondary net enrollment rate',
+    'SE.XPD.TOTL.GD.ZS': 'Education expenditure GDP percent',
+    'SE.SEC.TCAQ.ZS': 'Trained teachers secondary percent',
+    'PISA_MATH': 'PISA Mathematics Performance',
+    'PISA_READING': 'PISA Reading Performance',
+    'PISA_SCIENCE': 'PISA Science Performance',
+    'TIMSS_G4_MATH': 'TIMSS Grade 4 Mathematics Achievement',
+    'TIMSS_G8_MATH': 'TIMSS Grade 8 Mathematics Achievement',
+    'TIMSS_G8_SCIENCE': 'TIMSS Grade 8 Science Achievement',
+    'SE.TER.ENRR.FE': 'Tertiary enrollment rate female',
+    'SE.TER.ENRR.MA': 'Tertiary enrollment rate male',
+    'SE.PRE.CMPT.ZS': 'Preschool completion rate',
+    'SE.PRM.CMPT.ACT.ZS': 'Primary completion rate (actual)',
+    'SE.SEC.LO.CMPT.ZS': 'Lower secondary completion rate',
+    'SE.SEC.UP.CMPT.ZS': 'Upper secondary completion rate',
+    'SE.SEC.UP.CMPT.FE.ZS': 'Upper secondary completion rate female',
+    'SE.SEC.UP.CMPT.MA.ZS': 'Upper secondary completion rate male',
+    'SE.BAC.PASS.ZS': 'Baccalaureate pass rate',
+    'TIMSS_G4_MATH_2023': 'TIMSS Grade 4 Mathematics',
+    'TIMSS_G8_MATH_2023': 'TIMSS Grade 8 Mathematics',
+    'TIMSS_G8_SCIENCE_2023': 'TIMSS Grade 8 Science',
+    'PISA_MATH_2022': 'PISA Mathematics 2022',
+    'PISA_READ_2022': 'PISA Reading 2022',
+    'PISA_SCI_2022': 'PISA Science 2022',
+    'SE.PRM.ENRL.RUR.ZS': 'Primary enrollment rural',
+    'SE.PRM.ENRL.URB.ZS': 'Primary enrollment urban',
+    'SE.SEC.ENRL.RUR.ZS': 'Secondary enrollment rural',
+    'SE.SEC.ENRL.URB.ZS': 'Secondary enrollment urban',
+    'SE.PRE.ENRL.RUR.ZS': 'Preschool enrollment rural',
+    'SE.PRE.ENRL.URB.ZS': 'Preschool enrollment urban',
+    'SE.PRM.TCHR.RATIO.REG': 'Teacher-pupil ratio primary by region',
+    'SE.SEC.TCHR.RATIO.REG': 'Teacher-pupil ratio secondary by region',
+    'SE.PRM.ENRL.POOR.ZS': 'Primary enrollment (poorest quintile)',
+    'SE.PRM.ENRL.RICH.ZS': 'Primary enrollment (richest quintile)',
+    'SE.LIT.RATE.RUR.F': 'Female literacy rate rural',
+    'SE.LIT.RATE.URB.F': 'Female literacy rate urban',
+    'SE.DISAB.INCL.ZS': 'Students with disabilities inclusion rate',
+    'SE.TVET.ENRL.TOTAL': 'TVET total enrollment',
+    'SE.TVET.SPEC.TECH.ZS': 'TVET specialized technician level',
+    'SE.TVET.GDP.ZS': 'TVET spending as % of GDP',
+    'SE.YOUTH.NEET.ZS': 'Youth not in education/employment/training',
+    'SE.XPD.GDP.TOTAL.ZS': 'Education expenditure total % GDP',
+    'SE.XPD.STUDENT.PRIMARY': 'Per-student expenditure primary (USD PPP)',
+    'SE.XPD.STUDENT.SECONDARY': 'Per-student expenditure secondary (USD PPP)',
+    'SE.XPD.STUDENT.TERTIARY': 'Per-student expenditure tertiary (USD PPP)',
+    'SE.DIGITAL.ACCESS.ZS': 'Students with digital device access',
+    'SE.SCHOOL.INTERNET.ZS': 'Schools with internet connectivity',
+    'SE.DISTANCE.LEARN.COVID': 'Distance learning effectiveness during COVID'
+}
+
+start_year = 2000
+end_year = 2024
+
+def fetch_indicator_data(country_code, indicator_code, start_year, end_year):
+    url = f"http://api.worldbank.org/v2/country/{country_code}/indicator/{indicator_code}?date={start_year}:{end_year}&format=json&per_page=500"
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            data = response.json()
+            results = []
+            if data and len(data) > 1 and data[1]:
+                for entry in data[1]:
+                    year = entry['date']
+                    value = entry['value']
+                    results.append({'Country': country_code, 'Indicator Code': indicator_code, 'Indicator Name': key_indicators.get(indicator_code, ''), 'Year': year, 'Value': value})
+            return results
+        else:
+            print(f"Failed to fetch {indicator_code} for {country_code}")
+    except Exception as e:
+        print(f"Error fetching {indicator_code} for {country_code}: {e}")
+    return []
+
+def collect_data(countries, indicators, start_year, end_year):
+    all_data = []
+    for country in countries:
+        print(f"Collecting data for {country} ...")
+        for ind_code in indicators.keys():
+            data_points = fetch_indicator_data(country, ind_code, start_year, end_year)
+            all_data.extend(data_points)
+            sleep(0.1)  # polite delay
+    df = pd.DataFrame(all_data)
+    return df
+
+if __name__ == "__main__":
+    df_data = collect_data(countries, key_indicators, start_year, end_year)
+    df_data.to_csv('education_data_2000_2023.csv', index=False)
+    print(f"Data collection completed, saved to education_data_2000_2023.csv")

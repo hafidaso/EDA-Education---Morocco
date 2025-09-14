@@ -1,0 +1,21 @@
+Municipality_Name,Region,Province,Average_Years_Schooling,Urban_Rural,Gender_Parity_Index,Primary_Completion_Rate,Distance_to_School_km,Education_Rank
+Agdal Riyad,Rabat-Salé-Kénitra,Rabat,12.15,Urban,1.02,99.8,0.5,1.0
+Harhoura,Rabat-Salé-Kénitra,Skhirat-Témara,11.23,Urban,0.98,99.5,0.8,2.0
+El Maarif,Grand Casablanca,Casablanca,10.51,Urban,1.01,99.2,0.6,3.0
+Souissi,Rabat-Salé-Kénitra,Rabat,10.0,Urban,0.97,98.9,0.7,4.0
+Hay Hassani,Grand Casablanca,Casablanca,9.87,Urban,0.99,98.7,0.9,5.0
+Anfa,Grand Casablanca,Casablanca,9.45,Urban,1.03,98.4,0.8,6.0
+Mers Sultan,Grand Casablanca,Casablanca,9.12,Urban,0.96,97.8,1.1,7.0
+Ain Sebaa,Grand Casablanca,Casablanca,8.98,Urban,0.94,97.2,1.2,8.0
+Hay Mohammadi,Grand Casablanca,Casablanca,8.76,Urban,0.95,96.9,1.0,9.0
+Skhirat,Rabat-Salé-Kénitra,Skhirat-Témara,8.54,Urban,1.01,98.1,1.3,10.0
+Oulad Ali Mansour,Tanger-Tetouan-Al Hoceima,Fahs-Anjra,0.48,Rural,0.65,67.4,8.7,20.0
+Bouchaouene,Oriental,Figuig,0.75,Rural,0.58,62.1,12.4,19.0
+Tahelouante,Marrakech-Safi,Essaouira,0.76,Rural,0.62,64.8,9.8,18.0
+Bouabout Amdlane,Marrakech-Safi,Chichaoua,0.8,Rural,0.59,61.3,11.2,17.0
+Timoulilt,Drâa-Tafilalet,Midelt,0.89,Rural,0.61,65.7,10.6,16.0
+Ait Ourir,Marrakech-Safi,Al Haouz,0.92,Rural,0.63,68.2,9.3,15.0
+Taskala,Béni Mellal-Khénifra,Azilal,0.98,Rural,0.56,59.8,13.1,14.0
+Sidi Redouane,Marrakech-Safi,Safi,1.12,Rural,0.64,66.9,8.9,13.0
+Amellago,Drâa-Tafilalet,Midelt,1.23,Rural,0.57,60.4,12.8,12.0
+Tabounte,Souss-Massa,Taroudannt,1.34,Rural,0.6,63.5,10.4,11.0

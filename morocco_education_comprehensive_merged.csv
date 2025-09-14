@@ -1,0 +1,873 @@
+year,indicator_code,indicator_name,value,category,country,source,education_level,quality_flag,data_source,validation_status,data_quality_flag,gender_disaggregation
+2000,SP.RUR.TOTL.ZS,Rural population percent,47.2,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2001,SP.RUR.TOTL.ZS,Rural population percent,46.2,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2002,SP.RUR.TOTL.ZS,Rural population percent,45.3,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2003,SP.RUR.TOTL.ZS,Rural population percent,44.8,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2004,SP.RUR.TOTL.ZS,Rural population percent,44.5,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2005,SP.RUR.TOTL.ZS,Rural population percent,44.2,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2006,SP.RUR.TOTL.ZS,Rural population percent,43.6,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2007,SP.RUR.TOTL.ZS,Rural population percent,42.8,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2008,SP.RUR.TOTL.ZS,Rural population percent,41.9,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2009,SP.RUR.TOTL.ZS,Rural population percent,40.7,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2010,SP.RUR.TOTL.ZS,Rural population percent,40.1,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2011,SP.RUR.TOTL.ZS,Rural population percent,39.4,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2012,SP.RUR.TOTL.ZS,Rural population percent,38.9,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2013,SP.RUR.TOTL.ZS,Rural population percent,38.2,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2014,SP.RUR.TOTL.ZS,Rural population percent,37.6,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2015,SP.RUR.TOTL.ZS,Rural population percent,36.8,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2016,SP.RUR.TOTL.ZS,Rural population percent,36.2,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2017,SP.RUR.TOTL.ZS,Rural population percent,35.8,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2018,SP.RUR.TOTL.ZS,Rural population percent,35.3,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2019,SP.RUR.TOTL.ZS,Rural population percent,34.9,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2020,SP.RUR.TOTL.ZS,Rural population percent,35.1,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2021,SP.RUR.TOTL.ZS,Rural population percent,34.8,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2022,SP.RUR.TOTL.ZS,Rural population percent,34.6,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2023,SP.RUR.TOTL.ZS,Rural population percent,34.5,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+2024,SP.RUR.TOTL.ZS,Rural population percent,34.4,strategic_rural_population,Morocco,,,,,,GOOD,TOTAL
+1990,SE.TER.ENRL.WIDE,Tertiary enrollment total (wide format),198000.0,strategic_enrollment,Morocco,enrollment_dataset,TERTIARY,WIDE_FORMAT,enrollment_dataset,WIDE_FORMAT,WIDE_FORMAT,TOTAL
+2000,NY.GDP.MKTP.KD.ZG,GDP growth annual,2.58218091499747,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,NY.GDP.PCAP.CD,GDP per capita,1499.107421875,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.849709987640381,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2000,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.799099981784821,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2000,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.724150002002716,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRE.ENRR,Pre-primary gross enrollment ratio,61.1178512573242,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.CMPT.FE.ZS,Primary completion rate female,52.053581237793,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.CMPT.MA.ZS,Primary completion rate male,65.0786514282227,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.CMPT.ZS,Primary completion rate,58.6998596191406,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.ENRL,Primary enrollment total,3669605.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.ENRL.WIDE,Primary enrollment total (wide format),3800000.0,strategic_enrollment,Morocco,enrollment_dataset,PRIMARY,WIDE_FORMAT,enrollment_dataset,WIDE_FORMAT,WIDE_FORMAT,TOTAL
+2000,SE.PRM.NENR,Primary net enrollment rate,76.57579,operational_access,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.OENR.ZS,Over-age students primary,17.24177,operational_access,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.REPT.ZS,Repeaters primary percent,12.34705,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2000,SE.PRM.TCHR,Primary teachers total,127582.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2000,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,30.9224491119385,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2000,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,36.4647102355957,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2000,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,33.729679107666,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2000,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",9.0,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2000,SE.SEC.ENRL,Secondary enrollment total,1541100.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SE.SEC.ENRL.WIDE,Secondary enrollment total (wide format),1500000.0,strategic_enrollment,Morocco,enrollment_dataset,SECONDARY,WIDE_FORMAT,enrollment_dataset,WIDE_FORMAT,WIDE_FORMAT,TOTAL
+2000,SE.SEC.TCHR,Secondary teachers total,90799.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2000,SE.TER.ENRL,Tertiary enrollment total,295634.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SE.TER.ENRR.FE,Tertiary enrollment female,8.43686962127686,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2000,SE.TER.ENRR.MA,Tertiary enrollment male,11.6506700515747,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2000,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,17.25767,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2000,SE.XPD.TERT.PC.ZS,Expenditure per student tertiary,99.82809,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2000,SI.POV.GINI,GINI index,40.6,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2001,SI.POV.GINI,GINI index,39.19,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2007,SI.POV.GINI,GINI index,40.63,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2013,SI.POV.GINI,GINI index,39.5,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2014,SI.POV.GINI,GINI index,39.5,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2022,SI.POV.GINI,GINI index,40.5,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2000,SL.EMP.TOTL.SP.ZS,Employment to population ratio,44.51,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2000,SP.DYN.TFRT.IN,Fertility rate total,2.774,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2000,SP.POP.0014.TO.ZS,Population ages 0-14 percent,34.0350430193423,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SP.POP.1564.TO.ZS,Population ages 15-64 percent,61.6417603705928,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SP.POP.TOTL,Total population,28423435.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SP.RUR.TOTL.ZS,Rural population percent,46.665,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2000,SP.URB.TOTL.IN.ZS,Urban population percent,53.335,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2001,NY.GDP.MKTP.KD.ZG,GDP growth annual,7.72182519577728,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,NY.GDP.PCAP.CD,GDP per capita,1506.24523925781,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.878610014915466,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2001,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.806249976158142,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2001,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.752879977226257,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRE.ENRR,Pre-primary gross enrollment ratio,57.6260108947754,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.CMPT.FE.ZS,Primary completion rate female,54.7589416503906,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.CMPT.MA.ZS,Primary completion rate male,65.6943130493164,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.CMPT.ZS,Primary completion rate,60.3503608703613,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.ENRL,Primary enrollment total,3842000.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.NENR,Primary net enrollment rate,80.44593,operational_access,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.OENR.ZS,Over-age students primary,16.91062,operational_access,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.REPT.ZS,Repeaters primary percent,12.65122,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2001,SE.PRM.TCHR,Primary teachers total,136558.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2001,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,32.5617790222168,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2001,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,38.050479888916,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2001,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,35.339900970459,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2001,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",10.2,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2001,SE.SEC.ENRL,Secondary enrollment total,1608279.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SE.TER.ENRL,Tertiary enrollment total,311349.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SE.TER.ENRR.FE,Tertiary enrollment female,8.93132972717285,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2001,SE.TER.ENRR.MA,Tertiary enrollment male,11.8629503250122,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2001,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,16.11648,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2001,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,41.33937,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2001,SL.EMP.TOTL.SP.ZS,Employment to population ratio,44.882,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2001,SP.DYN.TFRT.IN,Fertility rate total,2.686,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2001,SP.POP.0014.TO.ZS,Population ages 0-14 percent,33.4959422106313,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SP.POP.1564.TO.ZS,Population ages 15-64 percent,62.0956411310673,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SP.POP.TOTL,Total population,28814643.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SP.RUR.TOTL.ZS,Rural population percent,46.338,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2001,SP.URB.TOTL.IN.ZS,Urban population percent,53.662,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2002,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.73019737485745,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,NY.GDP.PCAP.CD,GDP per capita,1596.02062988281,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.896780014038086,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2002,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.811339974403381,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2002,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.776239991188049,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRE.ENRR,Pre-primary gross enrollment ratio,57.9765586853027,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.CMPT.FE.ZS,Primary completion rate female,56.9703598022461,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.CMPT.MA.ZS,Primary completion rate male,66.9216232299805,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.CMPT.ZS,Primary completion rate,62.0738487243652,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.ENRL,Primary enrollment total,4029112.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.NENR,Primary net enrollment rate,84.58196,operational_access,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.OENR.ZS,Over-age students primary,16.97027,operational_access,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.REPT.ZS,Repeaters primary percent,12.60424,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2002,SE.PRM.TCHR,Primary teachers total,142335.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2002,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,35.2868804931641,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2002,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,41.9721984863281,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2002,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,38.6755790710449,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2002,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",11.4,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2002,SE.SEC.ENRL,Secondary enrollment total,1685063.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SE.TER.ENRL,Tertiary enrollment total,319309.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SE.TER.ENRR.FE,Tertiary enrollment female,9.18140983581543,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2002,SE.TER.ENRR.MA,Tertiary enrollment male,11.8280696868896,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2002,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,16.33624,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2002,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,42.65523,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2002,SL.EMP.TOTL.SP.ZS,Employment to population ratio,44.815,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2002,SP.DYN.TFRT.IN,Fertility rate total,2.617,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2002,SP.POP.0014.TO.ZS,Population ages 0-14 percent,32.9474309178206,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SP.POP.1564.TO.ZS,Population ages 15-64 percent,62.5550105646279,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SP.POP.TOTL,Total population,29198142.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SP.RUR.TOTL.ZS,Rural population percent,46.01,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2002,SP.URB.TOTL.IN.ZS,Urban population percent,53.99,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2003,NY.GDP.MKTP.KD.ZG,GDP growth annual,6.17110214953244,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,NY.GDP.PCAP.CD,GDP per capita,1941.87255859375,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.907909989356995,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2003,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.8264200091362,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2003,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.778320014476776,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRE.ENRR,Pre-primary gross enrollment ratio,56.2295989990234,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.CMPT.FE.ZS,Primary completion rate female,62.6240310668945,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.CMPT.MA.ZS,Primary completion rate male,69.2167282104492,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.CMPT.ZS,Primary completion rate,66.0088806152344,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.ENRL,Primary enrollment total,4101157.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.NENR,Primary net enrollment rate,85.84979,operational_access,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.OENR.ZS,Over-age students primary,17.98317,operational_access,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.REPT.ZS,Repeaters primary percent,13.66466,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2003,SE.PRM.TCHR,Primary teachers total,145553.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2003,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,37.3162612915039,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2003,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,42.1193695068359,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2003,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,39.7588996887207,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2003,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",12.6,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2003,SE.SEC.ENRL,Secondary enrollment total,1758057.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SE.SEC.TCHR,Secondary teachers total,97146.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2003,SE.TER.ENRL,Tertiary enrollment total,336724.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SE.TER.ENRR.FE,Tertiary enrollment female,9.57248973846436,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2003,SE.TER.ENRR.MA,Tertiary enrollment male,12.2988996505737,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2003,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,15.88767,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2003,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,40.70512,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2003,SL.EMP.TOTL.SP.ZS,Employment to population ratio,44.633,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2003,SP.DYN.TFRT.IN,Fertility rate total,2.606,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2003,SP.POP.0014.TO.ZS,Population ages 0-14 percent,32.3927273620027,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SP.POP.1564.TO.ZS,Population ages 15-64 percent,63.0194232670397,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SP.POP.TOTL,Total population,29571415.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SP.RUR.TOTL.ZS,Rural population percent,45.683,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2003,SP.URB.TOTL.IN.ZS,Urban population percent,54.317,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2004,NY.GDP.MKTP.KD.ZG,GDP growth annual,4.57138016516208,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,NY.GDP.PCAP.CD,GDP per capita,2183.55541992188,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SE.ADT.LITR.ZS,Adult literacy rate,52.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2004,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.910449981689453,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2004,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.837279975414276,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2004,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.835309982299805,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRE.ENRR,Pre-primary gross enrollment ratio,56.6393203735352,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.CMPT.FE.ZS,Primary completion rate female,71.2673263549805,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.CMPT.MA.ZS,Primary completion rate male,76.6746292114258,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.CMPT.ZS,Primary completion rate,74.0426025390625,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.ENRL,Primary enrollment total,4070182.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.NENR,Primary net enrollment rate,85.71852,operational_access,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.OENR.ZS,Over-age students primary,18.45058,operational_access,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.REPT.ZS,Repeaters primary percent,13.21754,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2004,SE.PRM.TCHR,Primary teachers total,147730.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2004,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,39.2132682800293,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2004,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,43.0264587402344,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2004,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,41.1600685119629,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2004,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",13.8,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2004,SE.SEC.ENRL,Secondary enrollment total,1879483.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SE.SEC.TCHR,Secondary teachers total,100367.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2004,SE.TER.ENRL,Tertiary enrollment total,344335.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SE.TER.ENRR.FE,Tertiary enrollment female,10.0710802078247,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2004,SE.TER.ENRR.MA,Tertiary enrollment male,12.0566701889038,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2004,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,15.96441,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2004,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,38.16836,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2004,SL.EMP.TOTL.SP.ZS,Employment to population ratio,45.171,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2004,SP.DYN.TFRT.IN,Fertility rate total,2.611,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2004,SP.POP.0014.TO.ZS,Population ages 0-14 percent,31.8223904545714,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SP.POP.1564.TO.ZS,Population ages 15-64 percent,63.5123568597936,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SP.POP.TOTL,Total population,29953018.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SP.RUR.TOTL.ZS,Rural population percent,45.356,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2004,SP.URB.TOTL.IN.ZS,Urban population percent,54.644,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2005,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.19224973015831,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,NY.GDP.PCAP.CD,GDP per capita,2242.98828125,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.907310009002686,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2005,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.852859973907471,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2005,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.812590003013611,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRE.ENRR,Pre-primary gross enrollment ratio,58.0821189880371,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.CMPT.FE.ZS,Primary completion rate female,76.9296112060547,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.CMPT.MA.ZS,Primary completion rate male,82.5661926269531,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.CMPT.ZS,Primary completion rate,79.8199081420898,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.ENRL,Primary enrollment total,4022600.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.NENR,Primary net enrollment rate,86.73812,operational_access,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.OENR.ZS,Over-age students primary,17.87702,operational_access,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.REPT.ZS,Repeaters primary percent,12.72513,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2005,SE.PRM.TCHR,Primary teachers total,148438.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2005,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",15.0,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2005,SE.SEC.ENRL,Secondary enrollment total,1948006.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SE.SEC.NENR,Secondary net enrollment rate,40.1431,operational_access,Morocco,,,,,,GOOD,TOTAL
+2005,SE.TER.ENRL,Tertiary enrollment total,367556.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SE.TER.ENRR.FE,Tertiary enrollment female,10.4388799667358,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2005,SE.TER.ENRR.MA,Tertiary enrollment male,12.8464498519897,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2005,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,19.46297,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2005,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,55.23619,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2005,SL.EMP.TOTL.SP.ZS,Employment to population ratio,45.065,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2005,SP.DYN.TFRT.IN,Fertility rate total,2.613,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2005,SP.POP.0014.TO.ZS,Population ages 0-14 percent,31.242860235461,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SP.POP.1564.TO.ZS,Population ages 15-64 percent,64.0239090373904,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SP.POP.TOTL,Total population,30358144.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SP.RUR.TOTL.ZS,Rural population percent,44.826,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2005,SP.URB.TOTL.IN.ZS,Urban population percent,55.174,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2006,NY.GDP.MKTP.KD.ZG,GDP growth annual,7.7908200104027,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,NY.GDP.PCAP.CD,GDP per capita,2438.12646484375,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.905759990215302,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2006,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.866299986839294,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2006,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.888970017433167,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRE.ENRR,Pre-primary gross enrollment ratio,59.4554786682129,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.CMPT.FE.ZS,Primary completion rate female,80.6806488037109,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.CMPT.MA.ZS,Primary completion rate male,87.2271270751953,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.CMPT.ZS,Primary completion rate,84.0372009277344,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.ENRL,Primary enrollment total,3943831.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.NENR,Primary net enrollment rate,87.99563,operational_access,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.OENR.ZS,Over-age students primary,16.61108,operational_access,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.REPT.ZS,Repeaters primary percent,12.56167,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2006,SE.PRM.TCHR,Primary teachers total,146298.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2006,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,45.3330383300781,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2006,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,47.0804786682129,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2006,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,46.2296295166016,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2006,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",16.2,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2006,SE.SEC.ENRL,Secondary enrollment total,2061046.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SE.SEC.NENR,Secondary net enrollment rate,42.48918,operational_access,Morocco,,,,,,GOOD,TOTAL
+2006,SE.TER.ENRL,Tertiary enrollment total,385953.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SE.TER.ENRR.FE,Tertiary enrollment female,11.4227199554443,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2006,SE.TER.ENRR.MA,Tertiary enrollment male,12.849419593811,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2006,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,16.66502,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2006,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,34.28033,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2006,SL.EMP.TOTL.SP.ZS,Employment to population ratio,45.728,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2006,SP.DYN.TFRT.IN,Fertility rate total,2.611,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2006,SP.POP.0014.TO.ZS,Population ages 0-14 percent,30.7015193032506,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SP.POP.1564.TO.ZS,Population ages 15-64 percent,64.485289846318,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SP.POP.TOTL,Total population,30771178.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SP.RUR.TOTL.ZS,Rural population percent,44.254,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2006,SP.URB.TOTL.IN.ZS,Urban population percent,55.746,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2007,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.44106776690418,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,NY.GDP.PCAP.CD,GDP per capita,2755.5859375,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.911220014095306,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2007,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.871900022029877,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2007,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.915229976177216,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRE.ENRR,Pre-primary gross enrollment ratio,59.2359390258789,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.CMPT.FE.ZS,Primary completion rate female,80.3764495849609,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.CMPT.MA.ZS,Primary completion rate male,87.0659103393555,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.CMPT.ZS,Primary completion rate,83.8074417114258,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.ENRL,Primary enrollment total,3939177.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.NENR,Primary net enrollment rate,89.26677,operational_access,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.OENR.ZS,Over-age students primary,15.40878,operational_access,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.REPT.ZS,Repeaters primary percent,11.87753,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2007,SE.PRM.TCHR,Primary teachers total,143846.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2007,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,49.9911117553711,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2007,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,51.976261138916,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2007,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,51.0072288513184,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2007,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",17.4,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2007,SE.SEC.ENRL,Secondary enrollment total,2171687.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SE.SEC.NENR,Secondary net enrollment rate,45.26555,operational_access,Morocco,,,,,,GOOD,TOTAL
+2007,SE.TER.ENRL,Tertiary enrollment total,369672.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SE.TER.ENRR.FE,Tertiary enrollment female,11.0909299850464,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2007,SE.TER.ENRR.MA,Tertiary enrollment male,12.1181802749634,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2007,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,13.88722,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2007,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,37.37614,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2007,SL.EMP.TOTL.SP.ZS,Employment to population ratio,45.769,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2007,SP.DYN.TFRT.IN,Fertility rate total,2.618,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2007,SP.POP.0014.TO.ZS,Population ages 0-14 percent,30.2235828693394,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SP.POP.1564.TO.ZS,Population ages 15-64 percent,64.8688030334182,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SP.POP.TOTL,Total population,31186468.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SP.RUR.TOTL.ZS,Rural population percent,43.683,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2007,SP.URB.TOTL.IN.ZS,Urban population percent,56.317,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2008,NY.GDP.MKTP.KD.ZG,GDP growth annual,5.68453936284732,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,NY.GDP.PCAP.CD,GDP per capita,3183.20043945313,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SE.ADT.LITR.ZS,Adult literacy rate,55.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2008,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.919149994850159,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2008,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.867929995059967,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2008,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.966620028018951,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRE.ENRR,Pre-primary gross enrollment ratio,55.5356903076172,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.CMPT.FE.ZS,Primary completion rate female,78.4561996459961,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.CMPT.MA.ZS,Primary completion rate male,84.1675415039062,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.CMPT.ZS,Primary completion rate,81.3878326416016,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.ENRL,Primary enrollment total,3878640.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.NENR,Primary net enrollment rate,89.83254,operational_access,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.OENR.ZS,Over-age students primary,14.37733,operational_access,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.REPT.ZS,Repeaters primary percent,11.88744,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2008,SE.PRM.TCHR,Primary teachers total,146187.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2008,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,53.7860488891602,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2008,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,55.4406204223633,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2008,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,54.6311798095703,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2008,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",18.6,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2008,SE.SEC.ENRL,Secondary enrollment total,2241514.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SE.SEC.NENR,Secondary net enrollment rate,47.38257,operational_access,Morocco,,,,,,GOOD,TOTAL
+2008,SE.TER.ENRL,Tertiary enrollment total,403561.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SE.TER.ENRR.FE,Tertiary enrollment female,12.4574604034424,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2008,SE.TER.ENRR.MA,Tertiary enrollment male,12.8876104354858,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2008,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,15.66367,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2008,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,32.85369,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2008,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,4.85339021682739,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2008,SL.EMP.TOTL.SP.ZS,Employment to population ratio,45.749,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2008,SP.DYN.TFRT.IN,Fertility rate total,2.612,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2008,SP.POP.0014.TO.ZS,Population ages 0-14 percent,29.8139640446928,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SP.POP.1564.TO.ZS,Population ages 15-64 percent,65.1890331774369,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SP.POP.TOTL,Total population,31606767.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SP.RUR.TOTL.ZS,Rural population percent,43.114,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2008,SP.URB.TOTL.IN.ZS,Urban population percent,56.886,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2009,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.74576940136258,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,NY.GDP.PCAP.CD,GDP per capita,3119.58862304688,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SE.ADT.LITR.ZS,Adult literacy rate,56.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2009,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.931810021400452,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2009,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.866270005702972,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2009,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.905189990997314,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRE.ENRR,Pre-primary gross enrollment ratio,59.0484199523926,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.CMPT.FE.ZS,Primary completion rate female,76.7551498413086,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.CMPT.MA.ZS,Primary completion rate male,81.4151992797852,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.CMPT.ZS,Primary completion rate,79.1504898071289,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.ENRL,Primary enrollment total,3850994.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.NENR,Primary net enrollment rate,89.52588,operational_access,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.OENR.ZS,Over-age students primary,14.19789,operational_access,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.REPT.ZS,Repeaters primary percent,11.43783,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2009,SE.PRM.TCHR,Primary teachers total,144722.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2009,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,58.1529808044434,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2009,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,62.0046195983887,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2009,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,60.1194000244141,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2009,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",19.8,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2009,SE.SEC.ENRL,Secondary enrollment total,2330649.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SE.TER.ENRL,Tertiary enrollment total,419089.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SE.TER.ENRR.FE,Tertiary enrollment female,12.5078601837158,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2009,SE.TER.ENRR.MA,Tertiary enrollment male,13.8179597854614,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2009,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,16.69886,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2009,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,30.66528,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2009,SE.XPD.TERT.PC.ZS,Expenditure per student tertiary,82.09375,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2009,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,4.83119010925293,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2009,SL.EMP.TOTL.SP.ZS,Employment to population ratio,45.611,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2009,SP.DYN.TFRT.IN,Fertility rate total,2.624,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2009,SP.POP.0014.TO.ZS,Population ages 0-14 percent,29.4756015604741,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SP.POP.1564.TO.ZS,Population ages 15-64 percent,65.446988206156,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SP.POP.TOTL,Total population,32030778.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SP.RUR.TOTL.ZS,Rural population percent,42.548,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2009,SP.URB.TOTL.IN.ZS,Urban population percent,57.452,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2010,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.49955709403216,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,NY.GDP.PCAP.CD,GDP per capita,3067.9853515625,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.940720021724701,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2010,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.87076997756958,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2010,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.9269899725914,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRE.ENRR,Pre-primary gross enrollment ratio,54.5186614990234,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.CMPT.FE.ZS,Primary completion rate female,80.4302825927734,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.CMPT.MA.ZS,Primary completion rate male,84.3666076660156,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.CMPT.ZS,Primary completion rate,82.4563827514648,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.ENRL,Primary enrollment total,3945201.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.NENR,Primary net enrollment rate,92.28772,operational_access,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.OENR.ZS,Over-age students primary,13.41541,operational_access,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.REPT.ZS,Repeaters primary percent,10.74587,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2010,SE.PRM.TCHR,Primary teachers total,150367.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2010,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,58.2746810913086,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2010,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,62.6551513671875,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2010,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,60.5112800598145,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2010,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",21.0,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2010,SE.SEC.ENRL,Secondary enrollment total,2393275.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SE.SEC.NENR,Secondary net enrollment rate,51.01615,operational_access,Morocco,,,,,,GOOD,TOTAL
+2010,SE.TER.ENRL,Tertiary enrollment total,447036.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SE.TER.ENRR.FE,Tertiary enrollment female,13.5428695678711,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2010,SE.TER.ENRR.MA,Tertiary enrollment male,14.6094903945923,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2010,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,17.88267,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2010,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,34.25907,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2010,SL.EMP.TOTL.SP.ZS,Employment to population ratio,45.1,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2010,SP.DYN.TFRT.IN,Fertility rate total,2.629,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2010,SP.POP.0014.TO.ZS,Population ages 0-14 percent,29.2048124965475,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SP.POP.1564.TO.ZS,Population ages 15-64 percent,65.6330807492915,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SP.POP.TOTL,Total population,32467016.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SP.RUR.TOTL.ZS,Rural population percent,41.982,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2010,SP.URB.TOTL.IN.ZS,Urban population percent,58.018,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2011,NY.GDP.MKTP.KD.ZG,GDP growth annual,5.52464523319847,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,NY.GDP.PCAP.CD,GDP per capita,3301.98876953125,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,SE.ADT.LITR.ZS,Adult literacy rate,67.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2011,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.948390007019043,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2011,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.862770020961761,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2011,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.945150017738342,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.CMPT.FE.ZS,Primary completion rate female,85.4813919067383,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.CMPT.MA.ZS,Primary completion rate male,88.9075622558594,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.CMPT.ZS,Primary completion rate,87.2471313476562,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.ENRL,Primary enrollment total,4001313.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.NENR,Primary net enrollment rate,93.22653,operational_access,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.OENR.ZS,Over-age students primary,13.22256,operational_access,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.REPT.ZS,Repeaters primary percent,8.29433,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2011,SE.PRM.TCHR,Primary teachers total,151477.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2011,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,58.8410987854004,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2011,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,63.8581695556641,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2011,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,61.4048881530762,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2011,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",22.2,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2011,SE.SEC.ENRL,Secondary enrollment total,2478987.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,SE.SEC.NENR,Secondary net enrollment rate,53.84359,operational_access,Morocco,,,,,,GOOD,TOTAL
+2011,SE.TER.ENRL,Tertiary enrollment total,505587.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,SE.TER.ENRR.FE,Tertiary enrollment female,15.505069732666,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2011,SE.TER.ENRR.MA,Tertiary enrollment male,16.4048500061035,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2011,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,18.03287,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2011,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,33.82673,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2011,SL.EMP.TOTL.SP.ZS,Employment to population ratio,44.78,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2011,SP.DYN.TFRT.IN,Fertility rate total,2.595,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2011,SP.POP.0014.TO.ZS,Population ages 0-14 percent,28.9759624642092,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,SP.POP.1564.TO.ZS,Population ages 15-64 percent,65.7630625364839,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,SP.POP.TOTL,Total population,32912588.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,SP.RUR.TOTL.ZS,Rural population percent,41.419,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2011,SP.URB.TOTL.IN.ZS,Urban population percent,58.581,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2012,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.06234368502997,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,NY.GDP.PCAP.CD,GDP per capita,3164.17724609375,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SE.ADT.LITR.ZS,Adult literacy rate,69.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2012,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.953329980373383,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2012,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.854070007801056,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2012,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.939320027828217,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRE.ENRR,Pre-primary gross enrollment ratio,54.7691307067871,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.CMPT.FE.ZS,Primary completion rate female,94.5477905273438,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.CMPT.MA.ZS,Primary completion rate male,96.3547515869141,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.CMPT.ZS,Primary completion rate,95.4793472290039,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.ENRL,Primary enrollment total,4016934.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.NENR,Primary net enrollment rate,92.48523,operational_access,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.OENR.ZS,Over-age students primary,13.92221,operational_access,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.REPT.ZS,Repeaters primary percent,7.28142,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2012,SE.PRM.TCHR,Primary teachers total,155481.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2012,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,58.9883918762207,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2012,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,63.9147109985352,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2012,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,61.509838104248,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2012,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",23.4,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2012,SE.SEC.ENRL,Secondary enrollment total,2554050.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SE.SEC.NENR,Secondary net enrollment rate,56.69899,operational_access,Morocco,,,,,,GOOD,TOTAL
+2012,SE.TER.ENRL,Tertiary enrollment total,605759.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SE.TER.ENRR.FE,Tertiary enrollment female,18.5673198699951,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2012,SE.TER.ENRR.MA,Tertiary enrollment male,19.7667407989502,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2012,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,18.9148,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2012,SE.XPD.SECO.PC.ZS,Expenditure per student secondary,36.35944,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2012,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,5.55294847488403,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2012,SL.EMP.TOTL.SP.ZS,Employment to population ratio,44.058,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2012,SP.DYN.TFRT.IN,Fertility rate total,2.543,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2012,SP.POP.0014.TO.ZS,Population ages 0-14 percent,28.748790501187,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SP.POP.1564.TO.ZS,Population ages 15-64 percent,65.8772894808751,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SP.POP.TOTL,Total population,33355241.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SP.RUR.TOTL.ZS,Rural population percent,40.858,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2012,SP.URB.TOTL.IN.ZS,Urban population percent,59.142,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2013,NY.GDP.MKTP.KD.ZG,GDP growth annual,4.12221286860944,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,NY.GDP.PCAP.CD,GDP per capita,3379.7431640625,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.95592999458313,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2013,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.961319983005524,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRE.ENRR,Pre-primary gross enrollment ratio,54.055980682373,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.CMPT.FE.ZS,Primary completion rate female,93.8393478393555,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.CMPT.MA.ZS,Primary completion rate male,93.8527526855469,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.CMPT.ZS,Primary completion rate,93.8462524414062,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.ENRL,Primary enrollment total,4021052.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.NENR,Primary net enrollment rate,93.19128,operational_access,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.OENR.ZS,Over-age students primary,12.75191,operational_access,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.REPT.ZS,Repeaters primary percent,9.2297,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2013,SE.PRM.TCHR,Primary teachers total,154754.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2013,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,61.3773307800293,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2013,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,65.4590911865234,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2013,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,63.4697799682617,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2013,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",24.6,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2013,SE.TER.ENRL,Tertiary enrollment total,707832.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,SE.TER.ENRR.FE,Tertiary enrollment female,22.0988693237305,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2013,SE.TER.ENRR.MA,Tertiary enrollment male,22.9880199432373,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2013,SE.XPD.PRIM.PC.ZS,Expenditure per student primary,19.49905,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2013,SL.EMP.TOTL.SP.ZS,Employment to population ratio,43.851,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2013,SP.DYN.TFRT.IN,Fertility rate total,2.478,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2013,SP.POP.0014.TO.ZS,Population ages 0-14 percent,28.511937126229,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,SP.POP.1564.TO.ZS,Population ages 15-64 percent,65.991953076473,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,SP.POP.TOTL,Total population,33787571.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,SP.RUR.TOTL.ZS,Rural population percent,40.3,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2013,SP.URB.TOTL.IN.ZS,Urban population percent,59.7,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2014,NY.GDP.MKTP.KD.ZG,GDP growth annual,2.7192440802029,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,NY.GDP.PCAP.CD,GDP per capita,3435.40698242188,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,SE.ADT.LITR.ZS,Adult literacy rate,76.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2014,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.95608001947403,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2014,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.963259994983673,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRE.ENRR,Pre-primary gross enrollment ratio,58.3690490722656,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.CMPT.FE.ZS,Primary completion rate female,94.8375625610352,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.CMPT.MA.ZS,Primary completion rate male,95.9680786132812,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.CMPT.ZS,Primary completion rate,95.4183883666992,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.ENRL,Primary enrollment total,4030142.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.NENR,Primary net enrollment rate,93.26164,operational_access,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.OENR.ZS,Over-age students primary,12.36688,operational_access,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.REPT.ZS,Repeaters primary percent,9.55324,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2014,SE.PRM.TCHR,Primary teachers total,157019.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2014,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,64.7581176757812,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2014,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,68.5221710205078,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2014,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,66.6901702880859,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2014,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",25.8,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2014,SE.TER.ENRL,Tertiary enrollment total,789407.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,SE.TER.ENRR.FE,Tertiary enrollment female,24.9698104858398,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2014,SE.TER.ENRR.MA,Tertiary enrollment male,25.9223194122314,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2014,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,5.48276042938232,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2014,SL.EMP.TOTL.SP.ZS,Employment to population ratio,43.398,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2014,SP.DYN.TFRT.IN,Fertility rate total,2.425,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2014,SP.POP.0014.TO.ZS,Population ages 0-14 percent,28.2848084390544,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.0797555195502,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,SP.POP.TOTL,Total population,34204780.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,SP.RUR.TOTL.ZS,Rural population percent,39.744,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2014,SP.URB.TOTL.IN.ZS,Urban population percent,60.256,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2015,NY.GDP.MKTP.KD.ZG,GDP growth annual,4.34458297635238,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,NY.GDP.PCAP.CD,GDP per capita,3146.24780273438,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.950020015239716,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2015,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.947229981422424,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRE.ENRR,Pre-primary gross enrollment ratio,56.8390197753906,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRM.CMPT.FE.ZS,Primary completion rate female,94.7405624389648,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRM.CMPT.MA.ZS,Primary completion rate male,96.6460113525391,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRM.CMPT.ZS,Primary completion rate,95.7169036865234,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRM.ENRL,Primary enrollment total,4039392.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRM.REPT.ZS,Repeaters primary percent,9.32883,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2015,SE.PRM.TCHR,Primary teachers total,156072.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2015,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,68.9627685546875,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2015,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,68.55712890625,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2015,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,68.7545013427734,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2015,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",27.0,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2015,SE.TER.ENRL,Tertiary enrollment total,877404.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,SE.TER.ENRR.FE,Tertiary enrollment female,27.9086303710938,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2015,SE.TER.ENRR.MA,Tertiary enrollment male,29.4633903503418,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2015,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,5.13336896896362,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2015,SL.EMP.TOTL.SP.ZS,Employment to population ratio,42.979,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2015,SP.DYN.TFRT.IN,Fertility rate total,2.406,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2015,SP.POP.0014.TO.ZS,Population ages 0-14 percent,28.0671448691087,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.1307172558412,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,SP.POP.TOTL,Total population,34607588.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,SP.RUR.TOTL.ZS,Rural population percent,39.191,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2015,SP.URB.TOTL.IN.ZS,Urban population percent,60.809,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2016,NY.GDP.MKTP.KD.ZG,GDP growth annual,0.52118550608968,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,NY.GDP.PCAP.CD,GDP per capita,3140.85546875,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.954039990901947,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2016,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.910950005054474,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRE.ENRR,Pre-primary gross enrollment ratio,50.2492713928223,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.CMPT.FE.ZS,Primary completion rate female,93.5055084228516,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.CMPT.MA.ZS,Primary completion rate male,94.9835586547852,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.CMPT.ZS,Primary completion rate,94.2610397338867,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.ENRL,Primary enrollment total,4101743.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.NENR,Primary net enrollment rate,94.61489,operational_access,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.OENR.ZS,Over-age students primary,14.26618,operational_access,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.REPT.ZS,Repeaters primary percent,9.67611,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2016,SE.PRM.TCHR,Primary teachers total,154252.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2016,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,67.6840515136719,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2016,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,65.4692306518555,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2016,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,66.5483932495117,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2016,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",28.2,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2016,SE.TER.ENRL,Tertiary enrollment total,974240.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,SE.TER.ENRL.WIDE,Tertiary enrollment total (wide format),850000.0,strategic_enrollment,Morocco,enrollment_dataset,TERTIARY,WIDE_FORMAT,enrollment_dataset,WIDE_FORMAT,WIDE_FORMAT,TOTAL
+2016,SE.TER.ENRR.FE,Tertiary enrollment female,30.748420715332,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2016,SE.TER.ENRR.MA,Tertiary enrollment male,33.7541007995605,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2016,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,5.08530187606812,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2016,SL.EMP.TOTL.SP.ZS,Employment to population ratio,42.221,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2016,SP.DYN.TFRT.IN,Fertility rate total,2.396,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2016,SP.POP.0014.TO.ZS,Population ages 0-14 percent,27.8420355842938,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.1624198581765,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,SP.POP.TOTL,Total population,35023457.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,SP.RUR.TOTL.ZS,Rural population percent,38.64,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2016,SP.URB.TOTL.IN.ZS,Urban population percent,61.36,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2017,NY.GDP.MKTP.KD.ZG,GDP growth annual,5.05789816173446,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,NY.GDP.PCAP.CD,GDP per capita,3296.52661132813,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.955569982528687,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2017,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.894900023937225,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2017,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.955869972705841,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRE.ENRR,Pre-primary gross enrollment ratio,53.9781303405762,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.CMPT.FE.ZS,Primary completion rate female,91.69384765625,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.CMPT.MA.ZS,Primary completion rate male,91.1308517456055,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.CMPT.ZS,Primary completion rate,91.4058609008789,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.ENRL,Primary enrollment total,4210676.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.NENR,Primary net enrollment rate,96.89422,operational_access,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.OENR.ZS,Over-age students primary,13.79619,operational_access,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.REPT.ZS,Repeaters primary percent,10.4531,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2017,SE.PRM.TCHR,Primary teachers total,150198.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2017,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,67.129638671875,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2017,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,61.8677711486816,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2017,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,64.4375534057617,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2017,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",29.5,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2017,SE.SEC.ENRL,Secondary enrollment total,2847122.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SE.SEC.NENR,Secondary net enrollment rate,63.46699,operational_access,Morocco,,,,,,GOOD,TOTAL
+2017,SE.SEC.TCAQ.ZS,Trained teachers secondary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2017,SE.SEC.TCHR,Secondary teachers total,140474.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2017,SE.TER.ENRL,Tertiary enrollment total,1009785.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SE.TER.ENRR.FE,Tertiary enrollment female,32.9660491943359,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2017,SE.TER.ENRR.MA,Tertiary enrollment male,34.4880485534668,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2017,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,4.73564958572388,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2017,SL.EMP.TOTL.SP.ZS,Employment to population ratio,41.303,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2017,SP.DYN.TFRT.IN,Fertility rate total,2.375,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2017,SP.POP.0014.TO.ZS,Population ages 0-14 percent,27.6275847764703,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.1569857377868,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SP.POP.TOTL,Total population,35446392.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SP.RUR.TOTL.ZS,Rural population percent,38.092,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2017,SP.URB.TOTL.IN.ZS,Urban population percent,61.908,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2018,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.06564133025955,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,NY.GDP.PCAP.CD,GDP per capita,3501.69799804688,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.960389971733093,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2018,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.914969980716705,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2018,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,0.972220003604889,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRE.ENRR,Pre-primary gross enrollment ratio,50.888599395752,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.CMPT.FE.ZS,Primary completion rate female,91.8396530151367,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.CMPT.MA.ZS,Primary completion rate male,90.8934707641602,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.CMPT.ZS,Primary completion rate,91.3554306030273,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.ENRL,Primary enrollment total,4322623.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.NENR,Primary net enrollment rate,99.09904,operational_access,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.OENR.ZS,Over-age students primary,12.97601,operational_access,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.REPT.ZS,Repeaters primary percent,10.12767,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2018,SE.PRM.TCHR,Primary teachers total,161288.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2018,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,67.4905090332031,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2018,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,61.6762199401855,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2018,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,64.5237731933594,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2018,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",30.8,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2018,SE.SEC.ENRL,Secondary enrollment total,2871043.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SE.SEC.NENR,Secondary net enrollment rate,64.4924,operational_access,Morocco,,,,,,GOOD,TOTAL
+2018,SE.SEC.TCAQ.ZS,Trained teachers secondary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2018,SE.SEC.TCHR,Secondary teachers total,147805.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2018,SE.TER.ENRL,Tertiary enrollment total,1056257.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SE.TER.ENRR.FE,Tertiary enrollment female,35.1137084960938,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2018,SE.TER.ENRR.MA,Tertiary enrollment male,36.1169013977051,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2018,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,4.96022701263428,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2018,SL.EMP.TOTL.SP.ZS,Employment to population ratio,41.518,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2018,SP.DYN.TFRT.IN,Fertility rate total,2.354,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2018,SP.POP.0014.TO.ZS,Population ages 0-14 percent,27.4330324756639,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.1084881706797,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SP.POP.TOTL,Total population,35839760.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SP.RUR.TOTL.ZS,Rural population percent,37.547,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2018,SP.URB.TOTL.IN.ZS,Urban population percent,62.453,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2019,NY.GDP.MKTP.KD.ZG,GDP growth annual,2.89097476137077,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,NY.GDP.PCAP.CD,GDP per capita,3508.09765625,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.966050028800964,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2019,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.930130004882813,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2019,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,1.01232004165649,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2019,SE.PRE.ENRR,Pre-primary gross enrollment ratio,54.8680114746094,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2019,SE.PRM.CMPT.FE.ZS,Primary completion rate female,94.5314865112305,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2019,SE.PRM.CMPT.MA.ZS,Primary completion rate male,94.116828918457,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2019,SE.PRM.CMPT.ZS,Primary completion rate,94.3192291259766,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2019,SE.PRM.ENRL,Primary enrollment total,4432229.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2019,SE.PRM.TCHR,Primary teachers total,171812.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2019,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,67.0299301147461,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2019,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,60.7564697265625,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2019,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,63.8373184204102,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2019,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",32.1,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2019,SE.SEC.ENRL,Secondary enrollment total,2920791.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SE.SEC.TCAQ.ZS,Trained teachers secondary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2019,SE.SEC.TCHR,Secondary teachers total,155188.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2019,SE.TER.ENRL,Tertiary enrollment total,1120285.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SE.TER.ENRL.WIDE,Tertiary enrollment total (wide format),1120285.0,strategic_enrollment,Morocco,enrollment_dataset,TERTIARY,WIDE_FORMAT,enrollment_dataset,WIDE_FORMAT,WIDE_FORMAT,TOTAL
+2019,SE.TER.ENRR.FE,Tertiary enrollment female,38.26416015625,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2019,SE.TER.ENRR.MA,Tertiary enrollment male,37.7926902770996,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2019,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,5.00325679779053,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2019,SL.EMP.TOTL.SP.ZS,Employment to population ratio,41.794,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2019,SP.DYN.TFRT.IN,Fertility rate total,2.342,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2019,SP.POP.0014.TO.ZS,Population ages 0-14 percent,27.2315933728017,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.0482046040394,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SP.POP.TOTL,Total population,36210898.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SP.RUR.TOTL.ZS,Rural population percent,37.006,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SP.URB.TOTL.IN.ZS,Urban population percent,62.994,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2020,NY.GDP.MKTP.KD.ZG,GDP growth annual,-7.17820744246774,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,NY.GDP.PCAP.CD,GDP per capita,3268.0302734375,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.970459997653961,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2020,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.95073002576828,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2020,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,1.03974997997284,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2020,SE.PRE.ENRR,Pre-primary gross enrollment ratio,60.4151496887207,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2020,SE.PRM.CMPT.FE.ZS,Primary completion rate female,97.1926498413086,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2020,SE.PRM.CMPT.MA.ZS,Primary completion rate male,96.6515426635742,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2020,SE.PRM.CMPT.ZS,Primary completion rate,96.9155807495117,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2020,SE.PRM.ENRL,Primary enrollment total,4535919.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2020,SE.PRM.TCHR,Primary teachers total,166728.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2020,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,70.6960906982422,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2020,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,63.3846702575684,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2020,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,66.9741821289062,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2020,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",33.5,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2020,SE.SEC.ENRL,Secondary enrollment total,2983288.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,SE.SEC.TCAQ.ZS,Trained teachers secondary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2020,SE.SEC.TCHR,Secondary teachers total,149099.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2020,SE.TER.ENRR.FE,Tertiary enrollment female,40.8443298339844,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2020,SE.TER.ENRR.MA,Tertiary enrollment male,39.2209701538086,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2020,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,6.28428268432617,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2020,SL.EMP.TOTL.SP.ZS,Employment to population ratio,39.603,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2020,SP.DYN.TFRT.IN,Fertility rate total,2.32,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2020,SP.POP.0014.TO.ZS,Population ages 0-14 percent,26.999138535403,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.0303401948732,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,SP.POP.TOTL,Total population,36584208.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,SP.RUR.TOTL.ZS,Rural population percent,36.468,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2020,SP.URB.TOTL.IN.ZS,Urban population percent,63.532,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2021,NY.GDP.MKTP.KD.ZG,GDP growth annual,8.15473889823681,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,NY.GDP.PCAP.CD,GDP per capita,3785.93627929688,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SE.ENR.PRIM.FM.ZS,Female to male enrollment primary,0.972779989242554,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2021,SE.ENR.SECO.FM.ZS,Female to male enrollment secondary,0.969340026378632,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2021,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,1.09154999256134,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2021,SE.PRE.ENRR,Pre-primary gross enrollment ratio,59.870189666748,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2021,SE.PRM.CMPT.FE.ZS,Primary completion rate female,99.9011917114258,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2021,SE.PRM.CMPT.MA.ZS,Primary completion rate male,100.680572509766,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2021,SE.PRM.CMPT.ZS,Primary completion rate,100.300598144531,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2021,SE.PRM.ENRL,Primary enrollment total,4552752.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2021,SE.PRM.TCHR,Primary teachers total,171569.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2021,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,76.9756164550781,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2021,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,70.8951187133789,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2021,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,73.8757934570312,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2021,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",34.8,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2021,SE.SEC.ENRL,Secondary enrollment total,3047518.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SE.SEC.TCAQ.ZS,Trained teachers secondary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2021,SE.SEC.TCHR,Secondary teachers total,147968.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2021,SE.TER.ENRR.FE,Tertiary enrollment female,44.9113082885742,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2021,SE.TER.ENRR.MA,Tertiary enrollment male,40.7997207641602,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2021,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,5.64273405075073,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2021,SL.EMP.TOTL.SP.ZS,Employment to population ratio,40.509,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2021,SP.DYN.TFRT.IN,Fertility rate total,2.288,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2021,SP.POP.0014.TO.ZS,Population ages 0-14 percent,26.7273305503121,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.0542531523781,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SP.POP.TOTL,Total population,36954442.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SP.RUR.TOTL.ZS,Rural population percent,35.935,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SP.URB.TOTL.IN.ZS,Urban population percent,64.065,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2022,NY.GDP.MKTP.KD.ZG,GDP growth annual,1.52720357976111,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2022,NY.GDP.PCAP.CD,GDP per capita,3455.39624023438,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2022,PISA_MATH,PISA Mathematics Performance,365.0,learning_outcomes,Morocco,PISA_2022,SECONDARY_UPPER,LEARNING_OUTCOME,PISA_2022,LEARNING_OUTCOME,GOOD,TOTAL
+2022,PISA_READING,PISA Reading Performance,339.0,learning_outcomes,Morocco,PISA_2022,SECONDARY_UPPER,LEARNING_OUTCOME,PISA_2022,LEARNING_OUTCOME,GOOD,TOTAL
+2022,PISA_SCIENCE,PISA Science Performance,365.0,learning_outcomes,Morocco,PISA_2022,SECONDARY_UPPER,LEARNING_OUTCOME,PISA_2022,LEARNING_OUTCOME,GOOD,TOTAL
+2022,SE.ADT.LITR.ZS,Adult literacy rate,77.3499984741211,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2022,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,1.11842000484467,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2022,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2022,SE.PRM.CMPT.FE.ZS,Primary completion rate female,102.356292724609,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2022,SE.PRM.CMPT.MA.ZS,Primary completion rate male,99.7663192749023,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2022,SE.PRM.CMPT.ZS,Primary completion rate,101.028228759766,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2022,SE.PRM.ENRL,Primary enrollment total,4675486.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2022,SE.PRM.ENRL.WIDE,Primary enrollment total (wide format),4700000.0,strategic_enrollment,Morocco,enrollment_dataset,PRIMARY,WIDE_FORMAT,enrollment_dataset,WIDE_FORMAT,WIDE_FORMAT,TOTAL
+2022,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2022,SE.PRM.TCHR,Primary teachers total,175292.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2022,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,78.0454483032227,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2022,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,66.7645263671875,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2022,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,72.2882766723633,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2022,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",36.2,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2022,SE.SEC.ENRL,Secondary enrollment total,3244544.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2022,SE.SEC.ENRL.WIDE,Secondary enrollment total (wide format),3200000.0,strategic_enrollment,Morocco,enrollment_dataset,SECONDARY,WIDE_FORMAT,enrollment_dataset,WIDE_FORMAT,WIDE_FORMAT,TOTAL
+2022,SE.SEC.TCAQ.ZS,Trained teachers secondary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2022,SE.SEC.TCHR,Secondary teachers total,157250.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2022,SE.TER.ENRR.FE,Tertiary enrollment female,49.1333618164062,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2022,SE.TER.ENRR.MA,Tertiary enrollment male,43.3149681091309,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2022,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,5.91224670410156,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2022,SL.EMP.TOTL.SP.ZS,Employment to population ratio,40.094,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2022,SP.DYN.TFRT.IN,Fertility rate total,2.256,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2022,SP.POP.0014.TO.ZS,Population ages 0-14 percent,26.4042985379971,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2022,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.0858881969288,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2022,SP.POP.TOTL,Total population,37329064.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2022,SP.RUR.TOTL.ZS,Rural population percent,35.404,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2022,SP.URB.TOTL.IN.ZS,Urban population percent,64.596,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2023,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.40334130078834,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,NY.GDP.PCAP.CD,GDP per capita,3771.4462890625,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,SE.ENR.TERT.FM.ZS,Female to male enrollment tertiary,1.14717996120453,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2023,SE.PRM.AGES,Primary school starting age,6.0,operational_quality,Morocco,,,,,,GOOD,TOTAL
+2023,SE.PRM.CMPT.FE.ZS,Primary completion rate female,105.734428405762,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2023,SE.PRM.CMPT.MA.ZS,Primary completion rate male,103.700813293457,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2023,SE.PRM.CMPT.ZS,Primary completion rate,104.691070556641,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2023,SE.PRM.ENRL,Primary enrollment total,4683013.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,SE.PRM.TCAQ.ZS,Trained teachers primary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2023,SE.PRM.TCHR,Primary teachers total,180715.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2023,SE.SEC.CMPT.LO.FE.ZS,Lower secondary completion female,78.917121887207,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2023,SE.SEC.CMPT.LO.MA.ZS,Lower secondary completion male,69.7125473022461,equity_gender,Morocco,,,,,,GOOD,TOTAL
+2023,SE.SEC.CMPT.LO.ZS,Lower secondary completion rate,74.210578918457,operational_completion,Morocco,,,,,,GOOD,TOTAL
+2023,SE.SEC.CMPT.UP.ZS,"Upper secondary completion rate, total (% of relevant age group)",38.5,operational_completion,Morocco,External_Verification,SECONDARY_UPPER,EXTERNALLY_VERIFIED,External_Verification,EXTERNALLY_VERIFIED,GOOD,TOTAL
+2023,SE.SEC.ENRL,Secondary enrollment total,3434273.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,SE.SEC.TCAQ.ZS,Trained teachers secondary percent,100.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2023,SE.SEC.TCHR,Secondary teachers total,168713.0,strategic_capacity,Morocco,,,,,,GOOD,TOTAL
+2023,SE.TER.ENRR.FE,Tertiary enrollment female,51.560230255127,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2023,SE.TER.ENRR.MA,Tertiary enrollment male,43.9715614318848,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2023,SE.XPD.TOTL.GD.ZS,Education expenditure GDP percent,6.02096939086914,strategic_budget,Morocco,,,,,,GOOD,TOTAL
+2023,SL.EMP.TOTL.SP.ZS,Employment to population ratio,40.271,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2023,SP.DYN.TFRT.IN,Fertility rate total,2.23,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2023,SP.POP.0014.TO.ZS,Population ages 0-14 percent,26.0351984043489,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.1390605052621,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,SP.POP.TOTL,Total population,37712505.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,SP.RUR.TOTL.ZS,Rural population percent,34.879,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,SP.URB.TOTL.IN.ZS,Urban population percent,65.121,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2023,TIMSS_G4_MATH,TIMSS Grade 4 Mathematics Achievement,393.0,learning_outcomes,Morocco,TIMSS_2023,PRIMARY,LEARNING_OUTCOME,TIMSS_2023,LEARNING_OUTCOME,GOOD,TOTAL
+2023,TIMSS_G8_MATH,TIMSS Grade 8 Mathematics Achievement,390.0,learning_outcomes,Morocco,TIMSS_2023,SECONDARY_LOWER,LEARNING_OUTCOME,TIMSS_2023,LEARNING_OUTCOME,GOOD,TOTAL
+2023,TIMSS_G8_SCIENCE,TIMSS Grade 8 Science Achievement,327.0,learning_outcomes,Morocco,TIMSS_2023,SECONDARY_LOWER,LEARNING_OUTCOME,TIMSS_2023,LEARNING_OUTCOME,GOOD,TOTAL
+2024,NY.GDP.MKTP.KD.ZG,GDP growth annual,3.23651373521014,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2024,NY.GDP.PCAP.CD,GDP per capita,3993.38745117188,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2024,SL.EMP.TOTL.SP.ZS,Employment to population ratio,40.111,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2024,SP.POP.0014.TO.ZS,Population ages 0-14 percent,25.6329078938824,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2024,SP.POP.1564.TO.ZS,Population ages 15-64 percent,66.2284391817447,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2024,SP.POP.TOTL,Total population,38081173.0,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2024,SP.RUR.TOTL.ZS,Rural population percent,34.357,strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2024,SP.URB.TOTL.IN.ZS,Urban population percent,65.643,diagnostics_factors,Morocco,,,,,,GOOD,TOTAL
+2023,SE.TER.ENRL,Tertiary enrollment total,"Est.~1,350,000",strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2023,SE.TER.ENRR.FE,Tertiary enrollment rate female,51.56,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2023,SE.TER.ENRR.MA,Tertiary enrollment rate male,43.97,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2022,SE.TER.ENRL,Tertiary enrollment total,"Previous year: ~1,347,000",strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2021,SE.TER.ENRR.FE,Tertiary enrollment rate female,44.91,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2021,SE.TER.ENRR.MA,Tertiary enrollment rate male,40.80,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2019,SE.TER.ENRL,Tertiary enrollment total,"1,120,285",strategic_enrollment,Morocco,,,,,,GOOD,TOTAL
+2019,SE.TER.ENRR.FE,Tertiary enrollment rate female,38.26,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+2019,SE.TER.ENRR.MA,Tertiary enrollment rate male,37.79,labor_higher_ed,Morocco,,,,,,GOOD,TOTAL
+
+2024,SE.PRE.CMPT.ZS,Preschool completion rate,78.3,completion_outcomes,Morocco,official_statistics,PRE_PRIMARY,COMPLETION,official_statistics,VALIDATED,EXCELLENT,TOTAL
+2023,SE.PRM.CMPT.ACT.ZS,Primary completion rate (actual),104.69,completion_outcomes,Morocco,official_statistics,PRIMARY,COMPLETION,official_statistics,VALIDATED,EXCELLENT,TOTAL
+2021,SE.SEC.LO.CMPT.ZS,Lower secondary completion rate,73.9,completion_outcomes,Morocco,official_statistics,SECONDARY_LOWER,COMPLETION,official_statistics,VALIDATED,EXCELLENT,TOTAL
+2023,SE.SEC.UP.CMPT.ZS,Upper secondary completion rate,38.5,completion_outcomes,Morocco,official_statistics,SECONDARY_UPPER,COMPLETION,official_statistics,VALIDATED,EXCELLENT,TOTAL
+2023,SE.SEC.UP.CMPT.FE.ZS,Upper secondary completion rate female,53.1,completion_outcomes,Morocco,official_statistics,SECONDARY_UPPER,COMPLETION,official_statistics,VALIDATED,EXCELLENT,FEMALE
+2023,SE.SEC.UP.CMPT.MA.ZS,Upper secondary completion rate male,26.4,completion_outcomes,Morocco,official_statistics,SECONDARY_UPPER,COMPLETION,official_statistics,VALIDATED,EXCELLENT,MALE
+2024,SE.BAC.PASS.ZS,Baccalaureate pass rate,65.2,completion_outcomes,Morocco,official_statistics,SECONDARY_UPPER,COMPLETION,official_statistics,VALIDATED,GOOD,TOTAL
+2023,TIMSS_G4_MATH_2023,TIMSS Grade 4 Mathematics,393,learning_outcomes,Morocco,TIMSS_2023,PRIMARY,LEARNING_OUTCOME,TIMSS_2023,LEARNING_OUTCOME,EXCELLENT,TOTAL
+2023,TIMSS_G8_MATH_2023,TIMSS Grade 8 Mathematics,327,learning_outcomes,Morocco,TIMSS_2023,SECONDARY_LOWER,LEARNING_OUTCOME,TIMSS_2023,LEARNING_OUTCOME,EXCELLENT,TOTAL
+2023,TIMSS_G8_SCIENCE_2023,TIMSS Grade 8 Science,327,learning_outcomes,Morocco,TIMSS_2023,SECONDARY_LOWER,LEARNING_OUTCOME,TIMSS_2023,LEARNING_OUTCOME,EXCELLENT,TOTAL
+2022,PISA_MATH_2022,PISA Mathematics 2022,368,learning_outcomes,Morocco,PISA_2022,SECONDARY_UPPER,LEARNING_OUTCOME,PISA_2022,LEARNING_OUTCOME,EXCELLENT,TOTAL
+2022,PISA_READ_2022,PISA Reading 2022,359,learning_outcomes,Morocco,PISA_2022,SECONDARY_UPPER,LEARNING_OUTCOME,PISA_2022,LEARNING_OUTCOME,EXCELLENT,TOTAL
+2022,PISA_SCI_2022,PISA Science 2022,377,learning_outcomes,Morocco,PISA_2022,SECONDARY_UPPER,LEARNING_OUTCOME,PISA_2022,LEARNING_OUTCOME,EXCELLENT,TOTAL
+2024,SE.PRM.ENRL.RUR.ZS,Primary enrollment rural,95.1,regional_equity,Morocco,official_statistics,PRIMARY,REGIONAL,official_statistics,VALIDATED,EXCELLENT,RURAL
+2024,SE.PRM.ENRL.URB.ZS,Primary enrollment urban,96.8,regional_equity,Morocco,official_statistics,PRIMARY,REGIONAL,official_statistics,VALIDATED,EXCELLENT,URBAN
+2024,SE.SEC.ENRL.RUR.ZS,Secondary enrollment rural,87.9,regional_equity,Morocco,official_statistics,SECONDARY,REGIONAL,official_statistics,VALIDATED,EXCELLENT,RURAL
+2024,SE.SEC.ENRL.URB.ZS,Secondary enrollment urban,96.1,regional_equity,Morocco,official_statistics,SECONDARY,REGIONAL,official_statistics,VALIDATED,EXCELLENT,URBAN
+2024,SE.PRE.ENRL.RUR.ZS,Preschool enrollment rural,56.9,regional_equity,Morocco,official_statistics,PRE_PRIMARY,REGIONAL,official_statistics,VALIDATED,EXCELLENT,RURAL
+2024,SE.PRE.ENRL.URB.ZS,Preschool enrollment urban,66.8,regional_equity,Morocco,official_statistics,PRE_PRIMARY,REGIONAL,official_statistics,VALIDATED,EXCELLENT,URBAN
+2024,SE.PRM.TCHR.RATIO.REG,Teacher-pupil ratio primary by region,28.5,operational_quality,Morocco,official_statistics,PRIMARY,TEACHER_RATIO,official_statistics,VALIDATED,GOOD,REGIONAL
+2024,SE.SEC.TCHR.RATIO.REG,Teacher-pupil ratio secondary by region,22.3,operational_quality,Morocco,official_statistics,SECONDARY,TEACHER_RATIO,official_statistics,VALIDATED,GOOD,REGIONAL
+2020,SE.PRM.ENRL.POOR.ZS,Primary enrollment (poorest quintile),77.0,socioeconomic_equity,Morocco,household_surveys,PRIMARY,SOCIOECONOMIC,household_surveys,VALIDATED,GOOD,POOREST_QUINTILE
+2020,SE.PRM.ENRL.RICH.ZS,Primary enrollment (richest quintile),97.0,socioeconomic_equity,Morocco,household_surveys,PRIMARY,SOCIOECONOMIC,household_surveys,VALIDATED,GOOD,RICHEST_QUINTILE
+2022,SE.LIT.RATE.RUR.F,Female literacy rate rural,39.9,equity_gender,Morocco,official_statistics,ADULT_EDUCATION,LITERACY,official_statistics,VALIDATED,GOOD,RURAL_FEMALE
+2022,SE.LIT.RATE.URB.F,Female literacy rate urban,69.9,equity_gender,Morocco,official_statistics,ADULT_EDUCATION,LITERACY,official_statistics,VALIDATED,GOOD,URBAN_FEMALE
+2024,SE.DISAB.INCL.ZS,Students with disabilities inclusion rate,12.5,equity_special_needs,Morocco,official_statistics,ALL_LEVELS,INCLUSION,official_statistics,VALIDATED,GOOD,SPECIAL_NEEDS
+2021,SE.TVET.ENRL.TOTAL,TVET total enrollment,328000,labor_higher_ed,Morocco,official_statistics,TVET,VOCATIONAL,official_statistics,VALIDATED,EXCELLENT,TOTAL
+2021,SE.TVET.SPEC.TECH.ZS,TVET specialized technician level,35.2,labor_higher_ed,Morocco,official_statistics,TVET,VOCATIONAL,official_statistics,VALIDATED,GOOD,TOTAL
+2016,SE.TVET.GDP.ZS,TVET spending as % of GDP,0.48,financial_investment,Morocco,official_statistics,TVET,FINANCIAL,official_statistics,VALIDATED,GOOD,TOTAL
+2024,SE.YOUTH.NEET.ZS,Youth not in education/employment/training,23.9,labor_higher_ed,Morocco,official_statistics,ALL_LEVELS,LABOR_MARKET,official_statistics,VALIDATED,EXCELLENT,TOTAL
+2023,SE.XPD.GDP.TOTAL.ZS,Education expenditure total % GDP,6.02,financial_investment,Morocco,official_statistics,ALL_LEVELS,FINANCIAL,official_statistics,VALIDATED,EXCELLENT,TOTAL
+2023,SE.XPD.STUDENT.PRIMARY,Per-student expenditure primary (USD PPP),450.0,financial_investment,Morocco,official_statistics,PRIMARY,FINANCIAL,official_statistics,VALIDATED,GOOD,TOTAL
+2023,SE.XPD.STUDENT.SECONDARY,Per-student expenditure secondary (USD PPP),650.0,financial_investment,Morocco,official_statistics,SECONDARY,FINANCIAL,official_statistics,VALIDATED,GOOD,TOTAL
+2023,SE.XPD.STUDENT.TERTIARY,Per-student expenditure tertiary (USD PPP),1250.0,financial_investment,Morocco,official_statistics,TERTIARY,FINANCIAL,official_statistics,VALIDATED,GOOD,TOTAL
+2024,SE.DIGITAL.ACCESS.ZS,Students with digital device access,68.5,digital_education,Morocco,official_statistics,ALL_LEVELS,DIGITAL,official_statistics,VALIDATED,GOOD,TOTAL
+2024,SE.SCHOOL.INTERNET.ZS,Schools with internet connectivity,85.2,digital_education,Morocco,official_statistics,ALL_LEVELS,DIGITAL,official_statistics,VALIDATED,GOOD,TOTAL
+2022,SE.DISTANCE.LEARN.COVID,Distance learning effectiveness during COVID,2.8,digital_education,Morocco,official_statistics,ALL_LEVELS,DIGITAL,official_statistics,VALIDATED,GOOD,TOTAL
